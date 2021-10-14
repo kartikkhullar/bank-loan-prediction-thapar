@@ -20,5 +20,5 @@
 
 ## Screenshots
 
-<img src="https://github.com/kartikkhullar/bank-loan-prediction-thapar/blob/master/sc1.png">
-<img src="https://github.com/kartikkhullar/bank-loan-prediction-thapar/blob/master/sc2.png">
+<img src="https://github.com/kartikkhullar/bank-loan-prediction-thapar/sc1.png">
+<img src="https://github.com/kartikkhullar/bank-loan-prediction-thapar/sc2.png">
